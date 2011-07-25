@@ -58,7 +58,7 @@ class Gc
      * @var string
      * @static
      */
-    public static $site_name="Betterlife 网站应用框架";
+    public static $site_name="统一用户管理中心客户端-直接访问数据库";
     /**
      * 网站应用的版本
      */
